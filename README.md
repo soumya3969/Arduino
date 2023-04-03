@@ -1,2 +1,3 @@
-# Arduino
-Some Basic Arduino Projects
+<p align="center">
+	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
+</p>
