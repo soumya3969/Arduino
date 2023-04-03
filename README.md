@@ -309,8 +309,6 @@ after installation of the Arduino IDE you can use as follows
 => 
 ```
 
-
-
 ## Download
 
 You can [download](https://www.arduino.cc) the latest installable version of Markdownify for Windows, macOS and Linux.
